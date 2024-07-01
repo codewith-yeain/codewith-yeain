@@ -6,7 +6,7 @@
 <ul>
   <li>👩‍💻All of my learning journeys at https://ppippae.tistory.com/</li>
   <li>🧾My coding records can be viewed at instagram <a href="https://instagram.com/dev.yeain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.yeain" height="30" width="40" /></a> <-- click here</li>
-  <li>📬How to reach me dev.yeain@gmail.com</li>
+  <li>📬How to reach me <b>dev.yeain@gmail.com</b></li>
 </ul>
 
 <!-- <h3 align="left">Connect with me:</h3>
